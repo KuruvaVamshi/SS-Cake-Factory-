@@ -1,11 +1,10 @@
-// WhatsApp Order Utility - Direct 1-Click WhatsApp Chat with Rich Cake Details & Photo URL
+// WhatsApp Order Utility - Direct 1-Click WhatsApp App Redirection with Complete Cake Details & Photo URL
 
 const WHATSAPP_NUMBER = "919666725858";
 const DEFAULT_DOMAIN = "https://www.sscakefactory.com";
 
 function getBaseUrl() {
   if (typeof window !== "undefined" && window.location && window.location.origin) {
-    // If running on localhost or raw IP during local dev, use live domain or current origin
     if (window.location.hostname === "localhost" || /^\d+\.\d+\.\d+\.\d+$/.test(window.location.hostname)) {
       return DEFAULT_DOMAIN;
     }
@@ -15,7 +14,7 @@ function getBaseUrl() {
 }
 
 /**
- * Builds a formatted WhatsApp order message
+ * Builds the formatted WhatsApp order inquiry message
  */
 export function buildOrderMessage(cake, options = {}) {
   const code = cake.code || `SS-${String(cake.id).padStart(3, "0")}`;
@@ -28,6 +27,7 @@ export function buildOrderMessage(cake, options = {}) {
   const baseDomain = getBaseUrl();
   const imgPath = cake.image ? cake.image.replace(/^\./, "") : "/thumbnail.jpg";
   const fullImageUrl = imgPath.startsWith("http") ? imgPath : `${baseDomain}${imgPath.startsWith("/") ? "" : "/"}${imgPath}`;
+  const cakeDetailUrl = `${baseDomain}/cake/${cake.id}`;
 
   const message = 
 `🎂 *SS CAKE FACTORY - ORDER INQUIRY* 🎂
@@ -39,60 +39,33 @@ export function buildOrderMessage(cake, options = {}) {
 💰 *Price:* ${price}${eggless}${customText}
 ━━━━━━━━━━━━━━━━━━━━
 📸 *Cake Photo:* ${fullImageUrl}
+🔗 *Details Link:* ${cakeDetailUrl}
 
 📍 *Store Location (Hyderabad):*
 https://maps.google.com/?q=17.3205,78.563306
 
 _Please confirm availability and order details._`;
 
+  const encodedText = encodeURIComponent(message);
+  // api.whatsapp.com directly invokes native WhatsApp app on Android and iOS
+  const whatsappUrl = `https://api.whatsapp.com/send?phone=${WHATSAPP_NUMBER}&text=${encodedText}`;
+
   return {
     message,
     fullImageUrl,
-    whatsappUrl: `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`
+    whatsappUrl
   };
 }
 
 /**
- * Sends order with native cake image file attachment on mobile devices
- * (via Web Share API), or opens WhatsApp directly with prefilled text on desktop/fallback.
+ * Directly redirects and opens WhatsApp app with prefilled order inquiry & cake photo link
  */
-export async function orderOnWhatsApp(cake, options = {}) {
-  const { message, whatsappUrl } = buildOrderMessage(cake, options);
+export function orderOnWhatsApp(cake, options = {}) {
+  const { whatsappUrl } = buildOrderMessage(cake, options);
 
-  // Try Native Web Share API with actual cake photo file (Mobile devices)
-  if (typeof navigator !== "undefined" && navigator.share && navigator.canShare) {
-    try {
-      const imgSrc = cake.image || "/thumbnail.jpg";
-      const response = await fetch(imgSrc);
-      if (response.ok) {
-        const blob = await response.blob();
-        const mimeType = blob.type || "image/jpeg";
-        const ext = mimeType.includes("png") ? "png" : "jpg";
-        const fileName = `${cake.code || "cake"}.${ext}`;
-        const file = new File([blob], fileName, { type: mimeType });
-
-        if (navigator.canShare({ files: [file] })) {
-          await navigator.share({
-            title: `SS Cake Factory - ${cake.name}`,
-            text: message,
-            files: [file]
-          });
-          return { success: true, method: "native_share" };
-        }
-      }
-    } catch (err) {
-      if (err.name === "AbortError") {
-        // User closed the share sheet
-        return { success: false, method: "cancelled" };
-      }
-      console.log("Native share fallback to WhatsApp link:", err);
-    }
-  }
-
-  // Fallback / Desktop: Open WhatsApp directly
   if (typeof window !== "undefined") {
+    // Open WhatsApp app directly
     window.open(whatsappUrl, "_blank", "noopener,noreferrer");
   }
-  return { success: true, method: "whatsapp_url" };
+  return { success: true, url: whatsappUrl };
 }
-
