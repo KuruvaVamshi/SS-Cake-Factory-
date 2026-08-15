@@ -1,2565 +1,2132 @@
 [
   {
     "id": 1,
-    "code": "SS-001",
     "name": "Step Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "3KG",
-    "price": "₹2400",
+    "price": "2400₹",
     "image": "/assets/cake1-C4B-RPGA.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 2,
-    "code": "SS-002",
     "name": "Icecreeam Design Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹1800",
-    "image": "/assets/cake2-D6H4EdlF.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake100-BsMd-4c5.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 3,
-    "code": "SS-003",
     "name": "Spider Man Step Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "3KG",
-    "price": "₹1800",
-    "image": "/assets/cake3-pLcVKBAf.jpeg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Kids & Theme Cakes"
-    ]
+    "price": "₹ 1800",
+    "image": "/assets/cake101-BSyY3X0f.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 4,
-    "code": "SS-004",
     "name": "Barbie Doll Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "2KG",
     "price": "₹900",
-    "image": "/assets/cake4-vWxUIHtM.jpeg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake103-Cm_2PMTT.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 5,
-    "code": "SS-005",
     "name": "Makeup Kit Step Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹1800",
-    "image": "/assets/cake5-7WXuC6Gg.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake104-BTNLm5fW.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 6,
-    "code": "SS-006",
     "name": "Micky Mouse Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "2KG",
     "price": "₹1400",
-    "image": "/assets/cake6-CptcmsU_.jpeg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake105-Ck1iDjje.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 7,
-    "code": "SS-007",
     "name": "4kg Photo Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "4kg",
     "price": "₹1600",
-    "image": "/assets/cake7-De2qkDwC.jpg",
-    "categories": [
-      "Photo Cakes"
-    ]
+    "image": "/assets/cake106-R0fvt12f.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 8,
-    "code": "SS-008",
     "name": "Princess Step Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "3KG",
     "price": "₹1800",
-    "image": "/assets/cake8-CFc84GHJ.png",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake107-Bgaox5Q4.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 9,
-    "code": "SS-009",
     "name": "Doll Step Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "3KG",
     "price": "₹2000",
-    "image": "/assets/cake9-CKrdF8b0.jpg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake108-DRTsbWML.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 10,
-    "code": "SS-010",
     "name": "Cinderella Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹1600",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake109-S6pCuMdu.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 11,
-    "code": "SS-011",
     "name": "Panda Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1700",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake110-CVwEctqK.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 12,
-    "code": "SS-012",
     "name": "Doll photo Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹900",
-    "image": "/assets/cake12-B46-zDUW.jpg",
-    "categories": [
-      "Photo Cakes",
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake111-BPa2txfM.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 13,
-    "code": "SS-013",
     "name": "Sea Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1300",
-    "image": "/assets/cake13-Ci7H7I4y.png",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake112-BrwAJ78D.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 14,
-    "code": "SS-014",
     "name": "Photo Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹800",
-    "image": "/assets/cake14-D9jg_xSs.jpg",
-    "categories": [
-      "Photo Cakes"
-    ]
+    "image": "/assets/cake113-z9OUa5Gb.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 15,
-    "code": "SS-015",
     "name": "Photo Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "5 kg",
     "price": "₹2000",
-    "image": "/assets/cake15-DU2ILxL1.jpg",
-    "categories": [
-      "Photo Cakes"
-    ]
+    "image": "/assets/cake114-CWTOEKOL.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 16,
-    "code": "SS-016",
     "name": "Anniversary Step Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹1500",
-    "image": "/assets/cake16-CQhp3xiS.jpg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Anniversary Cakes"
-    ]
+    "image": "/assets/cake115-DKXqnBPv.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 17,
-    "code": "SS-017",
     "name": "Butterfly Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "2 kg",
     "price": "₹1200",
-    "image": "/assets/cake17-CSfqUw_3.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake116-BmTB4bfm.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 18,
-    "code": "SS-018",
     "name": "Unicorn Fantasy Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹1800",
-    "image": "/assets/cake18-rasd3XVb.jpg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake117-CwkJdvAx.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 19,
-    "code": "SS-019",
     "name": "boy cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1300",
-    "image": "/assets/cake19-BYfUQMcs.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake118-DIJh8Zk9.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 20,
-    "code": "SS-020",
     "name": "Step Cake doll not available",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹",
-    "image": "/assets/cake20-ChTNWo4o.jpg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake119-CfyJi6hY.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 21,
-    "code": "SS-021",
     "name": "Unicorn Fantasy Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹2200",
-    "image": "/assets/cake21-BZ3O_3CV.jpg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake12-B46-zDUW.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 22,
-    "code": "SS-022",
     "name": "Cocomillon Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹2200",
-    "image": "/assets/cake22-Dw-_J6hi.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake120-DTVIgjwZ.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 23,
-    "code": "SS-023",
     "name": "Doll Butterfly Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1300",
-    "image": "/assets/cake23-C2-OiA3m.jpg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake121-BuPT_xM9.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 24,
-    "code": "SS-024",
     "name": "Garrage Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1300",
-    "image": "/assets/cake24-DYxr7H9o.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake122-WUaUiSTv.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 25,
-    "code": "SS-025",
     "name": "Queen Step cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "3 kg",
     "price": "₹1900",
-    "image": "/assets/cake25-aAQmXtHr.jpg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake123-BLBfHtvT.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 26,
-    "code": "SS-026",
     "name": "Butterfly Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1200",
-    "image": "/assets/cake26-CtFhPHMM.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake124-BcMwB4bC.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 27,
-    "code": "SS-027",
     "name": "Doll cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹800",
-    "image": "/assets/cake27-B5hfyHrf.jpg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake125-B2I5sGtc.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 28,
-    "code": "SS-028",
     "name": "Micky Mouse Step Cake",
     "flavor": "Butterscoch/ Pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹1799",
-    "image": "/assets/cake28-BKzSs0wO.jpg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake126-Bck0ZOtN.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 29,
-    "code": "SS-029",
     "name": "Doll Twins Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "4 KG",
     "price": "₹2700",
-    "image": "/assets/cake29-prwR2Lz7.jpg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake127-aAqSmAlw.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 30,
-    "code": "SS-030",
     "name": "Letter Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1kg",
     "price": "₹350",
-    "image": "/assets/cake30-CpBehwjh.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake128-Df8wWOdZ.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 31,
-    "code": "SS-031",
     "name": "Car Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
-    "weight": "KG3",
+    "weight": " KG3",
     "price": "₹2200",
-    "image": "/assets/cake31-nXc_ZlAs.jpg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake129-BNiAyaWW.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 32,
-    "code": "SS-032",
-    "name": "Engagement Step Cake",
+    "name": "Engagement Step Cake ",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹2100",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake130-BSCZXLvb.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 33,
-    "code": "SS-033",
     "name": "Bat man Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1500",
-    "image": "/assets/cake33-BMjFGTG8.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake131-Dw2933Ks.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 34,
-    "code": "SS-034",
     "name": "Teddy Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹2100",
-    "image": "/assets/cake34-LISGntvU.jpg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake132-DBUZPNqn.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 35,
-    "code": "SS-035",
     "name": "Car Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹1500",
-    "image": "/assets/cake35-C9w8rTpC.jpg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake133-Bw3VOMSy.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 36,
-    "code": "SS-036",
     "name": "Butterfly step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹1600",
-    "image": "/assets/cake36-BclDMJJj.jpg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake108-DRTsbWML.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 37,
-    "code": "SS-037",
     "name": "Biscuits Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹1900",
-    "image": "/assets/cake14-D9jg_xSs.jpg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake135-C2xU6L0F.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 38,
-    "code": "SS-038",
     "name": "Doll Butterfly Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹2100",
-    "image": "/assets/cake38-BK8V4-Z-.jpg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake136-BdnqYR_A.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 39,
-    "code": "SS-039",
     "name": "King Fisher Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1300",
-    "image": "/assets/cake39-D17SHMGX.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake137-9xjrhRs7.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 40,
-    "code": "SS-040",
     "name": "......",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "....",
     "price": "₹...",
-    "image": "/assets/cake40-BYyYsOzH.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake100-BsMd-4c5.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 41,
-    "code": "SS-041",
     "name": "Car Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹2200",
-    "image": "/assets/cake41-syHACer4.jpg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake129-BNiAyaWW.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 42,
-    "code": "SS-042",
     "name": "Micky Mouse step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹2100",
-    "image": "/assets/cake42-Bb3s-rD5.jpg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake14-D9jg_xSs.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 43,
-    "code": "SS-043",
-    "name": "Half Teddy Cake",
+    "name": "Half Teddy Cake ",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1 KG",
     "price": "₹1200",
-    "image": "/assets/cake43-CJaqw6nw.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake140-B6rvJYkc.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 44,
-    "code": "SS-044",
     "name": "Foot Ball Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1000",
-    "image": "/assets/cake44-xd3wljXS.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake141-CREoAZOA.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 45,
-    "code": "SS-045",
-    "name": "Little Singham Cake",
+    "name": "Little Singham Cake ",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹1950",
-    "image": "/assets/cake1-C4B-RPGA.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake142-BFR0uVHl.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 46,
-    "code": "SS-046",
-    "name": "5 Steps Cake",
+    "name": "5 Steps Cake ",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "15 KG",
     "price": "₹6000",
-    "image": "/assets/cake148-BSrou9If.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake143-ByQ5Llkd.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 47,
-    "code": "SS-047",
     "name": "Forest Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹1800",
-    "image": "/assets/cake143-ByQ5Llkd.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake144-CVmounrP.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 48,
-    "code": "SS-048",
     "name": "Cinderella Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹2100",
-    "image": "/assets/cake48-CXUmg_bp.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake145-C7x6Gy2G.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 49,
-    "code": "SS-049",
     "name": "Spider Man Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹2400",
-    "image": "/assets/cake49-YZOdxjsB.jpeg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake146-DwKtOWfp.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 50,
-    "code": "SS-050",
     "name": "Coco-millen Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 kg",
     "price": "₹1400",
-    "image": "/assets/cake161-DW2U_nqu.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake147-CagZkZ-R.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 51,
-    "code": "SS-051",
     "name": "Princess Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1400",
-    "image": "/assets/cake160-bNhdjH7v.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake148-BSrou9If.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 52,
-    "code": "SS-052",
-    "name": "Spider Man step Cake",
+    "name": "Spider Man step Cake ",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹1900",
     "image": "/assets/cake149-51mVQH6z.jpeg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Kids & Theme Cakes"
-    ]
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 53,
-    "code": "SS-053",
     "name": "Babby Boss Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹1900",
-    "image": "/assets/cake53-D4MQ52bl.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake15-DU2ILxL1.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 54,
-    "code": "SS-054",
     "name": "Kids Junk Food Birthday Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1400",
-    "image": "/assets/cake157-RAWvxtr-.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake150-Dm4VnwRH.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 55,
-    "code": "SS-055",
     "name": "Doraemon Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 kg",
     "price": "₹1000",
-    "image": "/assets/cake55-_GTr5cM9.jpeg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake151-VEzd__sb.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 56,
-    "code": "SS-056",
     "name": "Butterfly Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2KG",
     "price": "₹1200",
-    "image": "/assets/cake56-C1CXbL9a.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake152-CPs7Icgo.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 57,
-    "code": "SS-057",
     "name": "Photo Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "5 kg",
     "price": "₹2100",
-    "image": "/assets/cake57-WxciBGl5.jpeg",
-    "categories": [
-      "Photo Cakes"
-    ]
+    "image": "/assets/cake153-CEmzqnSd.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 58,
-    "code": "SS-058",
     "name": "Unicon Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1300",
-    "image": "/assets/cake58-Dv9halFk.jpeg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake154-DwSTm-vq.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 59,
-    "code": "SS-059",
     "name": "Engagement Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹2100",
-    "image": "/assets/cake59-KdsdIaaF.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake155-B2aYl-co.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 60,
-    "code": "SS-060",
     "name": "Spider man Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹1950",
-    "image": "/assets/cake164-CBfaseRY.jpeg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake156-C7rrfAK1.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 61,
-    "code": "SS-061",
     "name": "Butterfly Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹1500",
-    "image": "/assets/cake61-C4DJT0GP.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake157-RAWvxtr-.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 62,
-    "code": "SS-062",
     "name": "Princess cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹900",
     "image": "/assets/cake158-Ciz2UOZL.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 63,
-    "code": "SS-063",
     "name": "Princess Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹900",
-    "image": "/assets/cake150-Dm4VnwRH.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake159-DGNgfM4h.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 64,
-    "code": "SS-064",
     "name": "6months Birthday Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1 KG",
     "price": "₹600",
-    "image": "/assets/cake2-D6H4EdlF.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake16-CQhp3xiS.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 65,
-    "code": "SS-065",
     "name": "Bride-to-Be Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹1300",
-    "image": "/assets/cake149-51mVQH6z.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake160-bNhdjH7v.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 66,
-    "code": "SS-066",
     "name": "Teddy Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹2100",
-    "image": "/assets/cake66-DPOvst7a.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake161-DW2U_nqu.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 67,
-    "code": "SS-067",
     "name": "BEN 10 Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹1300",
-    "image": "/assets/cake67-COz6Pxhl.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake162-laOd0CMM.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 68,
-    "code": "SS-068",
     "name": "Almond",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹900",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake163-Bq28mJiU.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 69,
-    "code": "SS-069",
     "name": "Teddy Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹1950",
-    "image": "/assets/cake159-DGNgfM4h.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake164-CBfaseRY.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 70,
-    "code": "SS-070",
     "name": "Engagement Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1100",
-    "image": "/assets/cake6-CptcmsU_.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake165-D5s0TLRj.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 71,
-    "code": "SS-071",
-    "name": "Doraemon Cake",
+    "name": "Doraemon Cake ",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹800",
-    "image": "/assets/cake146-DwKtOWfp.jpeg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake17-CSfqUw_3.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 72,
-    "code": "SS-072",
     "name": "Sea fish cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1000",
-    "image": "/assets/cake151-VEzd__sb.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake173-onpgaj4V.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 73,
-    "code": "SS-073",
     "name": "Chef Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2KG",
     "price": "₹1400",
-    "image": "/assets/cake141-CREoAZOA.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake174-CnAfom-G.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 74,
-    "code": "SS-074",
     "name": "Butterfly Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1 kg",
     "price": "₹500",
-    "image": "/assets/cake162-laOd0CMM.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake175-BXjYm6W8.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 75,
-    "code": "SS-075",
     "name": "Frozen Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
-    "weight": "2KG",
+    "weight": " 2KG",
     "price": "₹1100",
-    "image": "/assets/cake75-7mUYlviH.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake176-BdEofxd2.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 76,
-    "code": "SS-076",
     "name": "Flower 3-Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "6kg",
     "price": "₹3000",
-    "image": "/assets/cake76-COzuCsI2.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake177-CKZe3Rqk.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 77,
-    "code": "SS-077",
     "name": "Star Teddy step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹2000",
-    "image": "/assets/cake77-DikmcMhl.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake178-MApQUUK3.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 78,
-    "code": "SS-078",
     "name": "Suppeer-man daddy Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹800",
-    "image": "/assets/cake78-Dnq3mCsS.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake179-Cki0pdCi.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 79,
-    "code": "SS-079",
     "name": "Letter Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1/2 kg/ per- each cake",
     "price": "₹180",
-    "image": "/assets/cake79-Bpf_dMz6.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake18-rasd3XVb.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 80,
-    "code": "SS-080",
     "name": "R.T.C - Reterment TG cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1500",
-    "image": "/assets/cake142-BFR0uVHl.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake180-hCwt4J0I.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 81,
-    "code": "SS-081",
     "name": "Rabbit Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹800",
-    "image": "/assets/cake4-vWxUIHtM.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake181-BoGX5Hzy.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 82,
-    "code": "SS-082",
     "name": "Design Photo Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹800",
-    "image": "/assets/cake82-DYIZM6bF.jpeg",
-    "categories": [
-      "Photo Cakes"
-    ]
+    "image": "/assets/cake182-eJI-4z6z.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 83,
-    "code": "SS-083",
     "name": "Butterfly Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹1500",
-    "image": "/assets/cake3-pLcVKBAf.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake183-CMrl8DZ4.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 84,
-    "code": "SS-084",
     "name": "Frozen Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹1100",
-    "image": "/assets/cake84-Dqd_dmkO.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake184-w29sAt_I.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 85,
-    "code": "SS-085",
     "name": "Animal 3 - step cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "6 KG",
     "price": "₹3200",
-    "image": "/assets/cake156-C7rrfAK1.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake185-Cj-eWsl3.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 86,
-    "code": "SS-086",
     "name": "Animal step cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹1800",
-    "image": "/assets/cake165-D5s0TLRj.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake186-B82vA89P.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 87,
-    "code": "SS-087",
     "name": "King 1st Birthday Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹2200",
-    "image": "/assets/cake87-CEKdjbQ-.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake187-BEet-q9r.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 88,
-    "code": "SS-088",
-    "name": "Butterfly 1st Birthday Step Cake",
+    "name": " Butterfly 1st Birthday Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹1800",
-    "image": "/assets/cake88-zP9x0lRz.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake188-CH-m3bWi.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 89,
-    "code": "SS-089",
     "name": "Robo Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹1600",
-    "image": "/assets/cake89-V5AhV1ZH.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake189-BqmyFx7k.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 90,
-    "code": "SS-090",
     "name": "Spiderman face Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1 KG",
     "price": "₹400",
-    "image": "/assets/cake90-PW51BUhn.jpeg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake19-BYfUQMcs.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 91,
-    "code": "SS-091",
-    "name": "Annivarsary Flower Step Cake",
+    "name": " Annivarsary Flower Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹2100",
-    "image": "/assets/cake91-BvZ4RrGq.jpeg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Anniversary Cakes"
-    ]
+    "image": "/assets/cake190-61ve1GFQ.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 92,
-    "code": "SS-092",
     "name": "Sai Letter cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
-    "weight": "1KG - per each letter.",
+    "weight": "1KG - per each letter. ",
     "price": "₹350",
-    "image": "/assets/cake133-Bw3VOMSy.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake191-D79e5WN_.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 93,
-    "code": "SS-093",
     "name": "Mothers Day Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1 KG",
     "price": "₹350",
-    "image": "/assets/cake93-DVxf7gNw.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake192-Cnf2eLrj.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 94,
-    "code": "SS-094",
-    "name": "1/2 Letters Cakes",
+    "name": " 1/2 Letters Cakes",
     "flavor": "Butterscoch / pineapple/ Strawberry",
-    "weight": "each cake 1/2kg",
+    "weight": " each cake 1/2kg",
     "price": "₹180",
-    "image": "/assets/cake94-C8ceRDPi.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake193-DZS5NOwq.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 95,
-    "code": "SS-095",
     "name": "Anniversary Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1300",
-    "image": "/assets/cake95-DAGTuFlb.jpeg",
-    "categories": [
-      "Anniversary Cakes"
-    ]
+    "image": "/assets/cake194-B6XmP_-L.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 96,
-    "code": "SS-096",
     "name": "Ragnigaddha",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹1300",
-    "image": "/assets/cake135-C2xU6L0F.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake195-jXxtpWEy.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 97,
-    "code": "SS-097",
     "name": "1/2 - 6months cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1 KG",
     "price": "₹800",
-    "image": "/assets/cake97-DS_sJlBa.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake196-Cb9l4yRY.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 98,
-    "code": "SS-098",
     "name": "Engagement Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1400",
-    "image": "/assets/cake98-zM9M89h1.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake197-D-yut0yX.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 99,
-    "code": "SS-099",
     "name": "Star Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 kg",
     "price": "₹1000",
-    "image": "/assets/cake99-CGZdeZ49.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake2-D6H4EdlF.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 100,
-    "code": "SS-100",
-    "name": "Car step cake",
+    "name": "Car step cake ",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹2400",
-    "image": "/assets/cake100-BsMd-4c5.jpeg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake20-ChTNWo4o.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 101,
-    "code": "SS-101",
     "name": "Butterfly 3 - step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "6kg",
     "price": "₹3000",
-    "image": "/assets/cake101-BSyY3X0f.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake200-Brbnsoez.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 102,
-    "code": "SS-102",
     "name": "Chocolat cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1 KG",
     "price": "₹350",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Flavored Cool Cakes"
-    ]
+    "image": "/assets/cake204-CDXnQ0GN.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 103,
-    "code": "SS-103",
     "name": "Butterscotch premium Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1 KG",
     "price": "₹300",
-    "image": "/assets/cake103-Cm_2PMTT.jpeg",
-    "categories": [
-      "Flavored Cool Cakes"
-    ]
+    "image": "/assets/cake205-JuoS0hb5.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 104,
-    "code": "SS-104",
     "name": "Butterscotch  Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1kg",
     "price": "₹250",
-    "image": "/assets/cake104-BTNLm5fW.jpeg",
-    "categories": [
-      "Flavored Cool Cakes"
-    ]
+    "image": "/assets/cake206-BEoheMHo.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 105,
-    "code": "SS-105",
     "name": "Black Forest",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1 KG",
     "price": "₹350",
-    "image": "/assets/cake105-Ck1iDjje.jpeg",
-    "categories": [
-      "Flavored Cool Cakes"
-    ]
+    "image": "/assets/cake207-Bvn4hJBm.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 106,
-    "code": "SS-106",
     "name": "Fish Doll cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹1400",
-    "image": "/assets/cake106-R0fvt12f.jpeg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake208-DCx3Yf8x.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 107,
-    "code": "SS-107",
     "name": "Butterfly Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1 KG",
     "price": "₹500",
-    "image": "/assets/cake107-Bgaox5Q4.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake21-BZ3O_3CV.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 108,
-    "code": "SS-108",
     "name": "Droctor Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1 kg",
     "price": "₹450",
-    "image": "/assets/cake108-DRTsbWML.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake210-CnSLmCHg.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 109,
-    "code": "SS-109",
     "name": "Doraemon Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1600",
-    "image": "/assets/cake109-S6pCuMdu.jpeg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake212-Fk3jkmgK.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 110,
-    "code": "SS-110",
     "name": "Heart Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1kg",
     "price": "₹400",
-    "image": "/assets/cake110-CVwEctqK.jpeg",
-    "categories": [
-      "Anniversary Cakes"
-    ]
+    "image": "/assets/cake213-DvV0AZkg.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 111,
-    "code": "SS-111",
     "name": "Flight Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1400",
-    "image": "/assets/cake111-BPa2txfM.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake214-CWLkt1F7.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 112,
-    "code": "SS-112",
     "name": "Car Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1600",
-    "image": "/assets/cake112-BrwAJ78D.jpeg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake216-Ccw25UPw.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 113,
-    "code": "SS-113",
     "name": "Butterfly step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹1500",
-    "image": "/assets/cake113-z9OUa5Gb.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake217-DyR4vM9a.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 114,
-    "code": "SS-114",
     "name": "Engagement Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹2400",
-    "image": "/assets/cake114-CWTOEKOL.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake218-BEN9A_Ek.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 115,
-    "code": "SS-115",
     "name": "bike Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 kg",
     "price": "₹2000",
-    "image": "/assets/cake115-DKXqnBPv.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake219-CT1ySu_k.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 116,
-    "code": "SS-116",
     "name": "Babby Doll",
     "flavor": "Butterscoch / pineapple/ Strawberry",
-    "weight": "KG",
+    "weight": " KG",
     "price": "₹900",
-    "image": "/assets/cake116-BmTB4bfm.jpeg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake22-Dw-_J6hi.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 117,
-    "code": "SS-117",
     "name": "Panda Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹800",
-    "image": "/assets/cake117-CwkJdvAx.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake220-DEX5J--B.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 118,
-    "code": "SS-118",
     "name": "Gym Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹1400",
-    "image": "/assets/cake118-DIJh8Zk9.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake221-ZjJ99tJA.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 119,
-    "code": "SS-119",
     "name": "Cloud step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹1950",
-    "image": "/assets/cake119-CfyJi6hY.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake222-CxZZY3JJ.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 120,
-    "code": "SS-120",
     "name": "Princess Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹1500",
-    "image": "/assets/cake120-DTVIgjwZ.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake223-DCzjFJuj.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 121,
-    "code": "SS-121",
     "name": "Police Kids Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1600",
-    "image": "/assets/cake121-BuPT_xM9.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake224-DDpxZKY-.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 122,
-    "code": "SS-122",
     "name": "Baby Moana Step  Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹2100",
-    "image": "/assets/cake122-WUaUiSTv.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake225-69iFxVdk.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 123,
-    "code": "SS-123",
     "name": "Teddy step cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹2300",
-    "image": "/assets/cake123-BLBfHtvT.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake226-DD2XGPqq.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 124,
-    "code": "SS-124",
     "name": "Merry Christmas Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1100",
-    "image": "/assets/cake124-BcMwB4bC.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake227-C83xD9ZP.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 125,
-    "code": "SS-125",
     "name": "Old Monk Design Cake Note: Old Monk  Bottle's your's only.",
     "flavor": "Chocolat Cake",
     "weight": "2kg",
     "price": "₹1500",
-    "image": "/assets/cake125-B2I5sGtc.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake228-BeWAP2p4.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 126,
-    "code": "SS-126",
     "name": "Wine Design Cake",
     "flavor": "...",
     "weight": "...",
     "price": "₹...",
-    "image": "/assets/cake126-Bck0ZOtN.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake229-COumagzb.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 127,
-    "code": "SS-127",
     "name": "chocolat step cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹2000",
-    "image": "/assets/cake127-aAqSmAlw.jpeg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Flavored Cool Cakes"
-    ]
+    "image": "/assets/cake23-C2-OiA3m.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 128,
-    "code": "SS-128",
     "name": "Messi-Foot Ball Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1500",
-    "image": "/assets/cake128-Df8wWOdZ.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake230-B3y8VajB.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 129,
-    "code": "SS-129",
     "name": "Teddy Doll Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹2400",
-    "image": "/assets/cake129-BNiAyaWW.jpeg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake232-DKURfnWG.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 130,
-    "code": "SS-130",
     "name": "Calender Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1300",
-    "image": "/assets/cake130-BSCZXLvb.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake233-BtVj9CBC.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 131,
-    "code": "SS-131",
     "name": "Peppa pig step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹2500",
-    "image": "/assets/cake131-Dw2933Ks.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake24-DYxr7H9o.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 132,
-    "code": "SS-132",
     "name": "Almond Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1 KG",
     "price": "₹400",
-    "image": "/assets/cake132-DBUZPNqn.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake241-V-m7fuh6.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 133,
-    "code": "SS-133",
     "name": "Car Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1500",
-    "image": "/assets/cake133-Bw3VOMSy.jpeg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake242-ob0UM5AY.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 134,
-    "code": "SS-134",
     "name": "Teddy cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹1200",
-    "image": "/assets/cake108-DRTsbWML.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake243-XSi599X2.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 135,
-    "code": "SS-135",
     "name": "Butterfly cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1 KG",
     "price": "₹550",
-    "image": "/assets/cake135-C2xU6L0F.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake25-aAQmXtHr.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 136,
-    "code": "SS-136",
     "name": "Chocolat step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹1600",
-    "image": "/assets/cake136-BdnqYR_A.jpeg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Flavored Cool Cakes"
-    ]
+    "image": "/assets/cake26-CtFhPHMM.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 137,
-    "code": "SS-137",
     "name": "Boss Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹2100",
-    "image": "/assets/cake137-9xjrhRs7.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake27-B5hfyHrf.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 138,
-    "code": "SS-138",
     "name": "Chicken Legpice Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1300",
-    "image": "/assets/cake100-BsMd-4c5.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake28-BKzSs0wO.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 139,
-    "code": "SS-139",
     "name": "Baby Boss stepp cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹1950",
-    "image": "/assets/cake129-BNiAyaWW.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake29-prwR2Lz7.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 140,
-    "code": "SS-140",
     "name": "Micky Mouse step cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹1950",
-    "image": "/assets/cake140-B6rvJYkc.jpeg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake3-pLcVKBAf.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 141,
-    "code": "SS-141",
     "name": "Teddy Baby Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹2400",
-    "image": "/assets/cake141-CREoAZOA.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake30-CpBehwjh.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 142,
-    "code": "SS-142",
     "name": "Girls Design Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹2300",
-    "image": "/assets/cake142-BFR0uVHl.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake31-nXc_ZlAs.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 143,
-    "code": "SS-143",
     "name": "..",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": ".. KG",
     "price": "₹...",
-    "image": "/assets/cake143-ByQ5Llkd.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake33-BMjFGTG8.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 144,
-    "code": "SS-144",
     "name": "...",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "..kg",
     "price": "₹...",
-    "image": "/assets/cake144-CVmounrP.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake34-LISGntvU.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 145,
-    "code": "SS-145",
     "name": ".....",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3KG",
     "price": "₹1499",
-    "image": "/assets/cake145-C7x6Gy2G.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake35-C9w8rTpC.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 146,
-    "code": "SS-146",
     "name": "..... Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹...",
-    "image": "/assets/cake146-DwKtOWfp.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake36-BclDMJJj.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 147,
-    "code": "SS-147",
     "name": "Micky Mouse Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹...",
-    "image": "/assets/cake147-CagZkZ-R.jpeg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake14-D9jg_xSs.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 148,
-    "code": "SS-148",
     "name": "......",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": ".... KG",
     "price": "₹....",
-    "image": "/assets/cake148-BSrou9If.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake38-BK8V4-Z-.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 149,
-    "code": "SS-149",
     "name": "Engagement step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "6kg",
     "price": "₹3000",
-    "image": "/assets/cake149-51mVQH6z.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake39-D17SHMGX.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 150,
-    "code": "SS-150",
     "name": "Butterfly Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1 KG",
     "price": "₹600",
-    "image": "/assets/cake150-Dm4VnwRH.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake4-vWxUIHtM.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 151,
-    "code": "SS-151",
     "name": "white Forest Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1 KG",
     "price": "₹400",
-    "image": "/assets/cake151-VEzd__sb.jpeg",
-    "categories": [
-      "Flavored Cool Cakes"
-    ]
+    "image": "/assets/cake40-BYyYsOzH.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 152,
-    "code": "SS-152",
     "name": "Mom To Be Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1kg",
     "price": "₹600",
-    "image": "/assets/cake152-CPs7Icgo.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake41-syHACer4.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 153,
-    "code": "SS-153",
     "name": "Lover Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1400",
-    "image": "/assets/cake153-CEmzqnSd.jpeg",
-    "categories": [
-      "Anniversary Cakes"
-    ]
+    "image": "/assets/cake42-Bb3s-rD5.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
+  },
+  {
+    "id": 154,
+    "name": "Black Forest Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "Custom Weight",
+    "price": "Contact for Price",
+    "image": "/assets/cake43-CJaqw6nw.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 155,
-    "code": "SS-155",
     "name": "Doll cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1800",
-    "image": "/assets/cake155-B2aYl-co.jpeg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake44-xd3wljXS.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 156,
-    "code": "SS-156",
     "name": "1st Birthday step  Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹2500",
-    "image": "/assets/cake156-C7rrfAK1.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake1-C4B-RPGA.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 157,
-    "code": "SS-157",
     "name": "Princess cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "....",
     "price": "₹...",
-    "image": "/assets/cake157-RAWvxtr-.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake148-BSrou9If.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 158,
-    "code": "SS-158",
     "name": "......",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": ".... KG",
     "price": "₹....",
-    "image": "/assets/cake158-Ciz2UOZL.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake143-ByQ5Llkd.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 159,
-    "code": "SS-159",
     "name": "Cricket Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹2800",
-    "image": "/assets/cake159-DGNgfM4h.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake48-CXUmg_bp.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 160,
-    "code": "SS-160",
     "name": "Doll cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹900",
-    "image": "/assets/cake160-bNhdjH7v.jpeg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake49-YZOdxjsB.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 161,
-    "code": "SS-161",
     "name": "Car Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹2200",
-    "image": "/assets/cake161-DW2U_nqu.jpeg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake5-7WXuC6Gg.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 162,
-    "code": "SS-162",
     "name": "Teddy cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹2400",
-    "image": "/assets/cake162-laOd0CMM.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake161-DW2U_nqu.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 163,
-    "code": "SS-163",
     "name": "..........",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "..... KG",
     "price": "₹.....",
-    "image": "/assets/cake163-Bq28mJiU.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake160-bNhdjH7v.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 164,
-    "code": "SS-164",
     "name": "....",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "... KG",
     "price": "₹...",
-    "image": "/assets/cake164-CBfaseRY.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake149-51mVQH6z.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 165,
-    "code": "SS-165",
     "name": "Engagement Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹1800",
-    "image": "/assets/cake165-D5s0TLRj.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake53-D4MQ52bl.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 166,
-    "code": "SS-166",
     "name": ".....",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "... KG",
     "price": "₹.....",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake157-RAWvxtr-.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 167,
-    "code": "SS-167",
     "name": "Step doll Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "4kg",
     "price": "₹1800",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Step & Tier Cakes",
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake55-_GTr5cM9.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 168,
-    "code": "SS-168",
     "name": "Unicon Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "5 KG",
     "price": "₹3500",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake56-C1CXbL9a.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 169,
-    "code": "SS-169",
-    "name": "Twins Step Cake",
+    "name": " Twins Step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹2500",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake57-WxciBGl5.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 170,
-    "code": "SS-170",
     "name": ".....",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "...KG",
     "price": "₹...",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake58-Dv9halFk.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 171,
-    "code": "SS-171",
     "name": "Cricket Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹1400",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake59-KdsdIaaF.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 172,
-    "code": "SS-172",
     "name": "Micky Mouse",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3KG",
     "price": "₹2100",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Kids & Theme Cakes"
-    ]
+    "image": "/assets/cake6-CptcmsU_.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 173,
-    "code": "SS-173",
     "name": "...",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": ".... KG",
     "price": "₹...",
-    "image": "/assets/cake173-onpgaj4V.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake164-CBfaseRY.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 174,
-    "code": "SS-174",
     "name": "Teddy Cake  Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "6kg",
     "price": "₹3600",
-    "image": "/assets/cake174-CnAfom-G.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake61-C4DJT0GP.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 175,
-    "code": "SS-175",
-    "name": "Cake #175",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 175",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake175-BXjYm6W8.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake158-Ciz2UOZL.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 176,
-    "code": "SS-176",
-    "name": "Cake #176",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 176",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "₹",
-    "image": "/assets/cake176-BdEofxd2.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake150-Dm4VnwRH.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 177,
-    "code": "SS-177",
-    "name": "Cake #177",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 177",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake177-CKZe3Rqk.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake2-D6H4EdlF.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 178,
-    "code": "SS-178",
-    "name": "Cake #178",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 178",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake178-MApQUUK3.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake149-51mVQH6z.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 179,
-    "code": "SS-179",
-    "name": "Cake #179",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 179",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake179-Cki0pdCi.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake66-DPOvst7a.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 180,
-    "code": "SS-180",
     "name": "Forest",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹3000",
-    "image": "/assets/cake180-hCwt4J0I.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake67-COz6Pxhl.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 181,
-    "code": "SS-181",
-    "name": "Cake #181",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 181",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake181-BoGX5Hzy.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake159-DGNgfM4h.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 182,
-    "code": "SS-182",
-    "name": "Step Cake",
+    "name": "Step Cake ",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹1800",
-    "image": "/assets/cake182-eJI-4z6z.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake7-De2qkDwC.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 183,
-    "code": "SS-183",
-    "name": "Cake #183",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 183",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake183-CMrl8DZ4.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake6-CptcmsU_.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 184,
-    "code": "SS-184",
-    "name": "Cake #184",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 184",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake184-w29sAt_I.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake146-DwKtOWfp.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 185,
-    "code": "SS-185",
-    "name": "Cake #185",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 185",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake185-Cj-eWsl3.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake151-VEzd__sb.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 186,
-    "code": "SS-186",
-    "name": "Cake #186",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 186",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake186-B82vA89P.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake141-CREoAZOA.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 187,
-    "code": "SS-187",
-    "name": "Cake #187",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 187",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake187-BEet-q9r.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake162-laOd0CMM.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 188,
-    "code": "SS-188",
     "name": "Princess photo Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1200",
-    "image": "/assets/cake188-CH-m3bWi.jpeg",
-    "categories": [
-      "Photo Cakes"
-    ]
+    "image": "/assets/cake75-7mUYlviH.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 189,
-    "code": "SS-189",
     "name": "Engagement step cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹2000",
-    "image": "/assets/cake189-BqmyFx7k.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake76-COzuCsI2.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 190,
-    "code": "SS-190",
     "name": "Fruits Butterscoch",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "1kg",
     "price": "₹600",
-    "image": "/assets/cake190-61ve1GFQ.jpeg",
-    "categories": [
-      "Flavored Cool Cakes"
-    ]
+    "image": "/assets/cake77-DikmcMhl.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 191,
-    "code": "SS-191",
     "name": "Number Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "4 KG",
     "price": "₹1400",
-    "image": "/assets/cake191-D79e5WN_.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake78-Dnq3mCsS.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 192,
-    "code": "SS-192",
     "name": "Cat Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹1000",
-    "image": "/assets/cake192-Cnf2eLrj.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake79-Bpf_dMz6.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 193,
-    "code": "SS-193",
-    "name": "Cake #193",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 193",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake193-DZS5NOwq.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake142-BFR0uVHl.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 194,
-    "code": "SS-194",
-    "name": "Cake #194",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 194",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake194-B6XmP_-L.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake4-vWxUIHtM.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 195,
-    "code": "SS-195",
-    "name": "Cake #195",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 195",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake195-jXxtpWEy.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake82-DYIZM6bF.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 196,
-    "code": "SS-196",
-    "name": "Cake #196",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 196",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake196-Cb9l4yRY.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake3-pLcVKBAf.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 197,
-    "code": "SS-197",
     "name": "Butterscotch Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹800",
-    "image": "/assets/cake197-D-yut0yX.jpeg",
-    "categories": [
-      "Flavored Cool Cakes"
-    ]
+    "image": "/assets/cake84-Dqd_dmkO.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 198,
-    "code": "SS-198",
-    "name": "Cake #198",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 198",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake156-C7rrfAK1.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 199,
-    "code": "SS-199",
-    "name": "Cake #199",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 199",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake165-D5s0TLRj.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 200,
-    "code": "SS-200",
-    "name": "Animal step Cake",
+    "name": " Animal step Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹3200",
-    "image": "/assets/cake200-Brbnsoez.jpeg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake87-CEKdjbQ-.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 201,
-    "code": "SS-201",
     "name": "Hear sheap Step cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹1600",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake88-zP9x0lRz.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 202,
-    "code": "SS-202",
-    "name": "Cake #202",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 202",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake89-V5AhV1ZH.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 203,
-    "code": "SS-203",
     "name": "Step cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3kg",
     "price": "₹1600",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Step & Tier Cakes"
-    ]
+    "image": "/assets/cake9-CKrdF8b0.jpg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 204,
-    "code": "SS-204",
-    "name": "Cake #204",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 204",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake204-CDXnQ0GN.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake90-PW51BUhn.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 205,
-    "code": "SS-205",
-    "name": "photo cake",
+    "name": "photo cake ",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "7kg",
     "price": "₹2800",
-    "image": "/assets/cake205-JuoS0hb5.jpeg",
-    "categories": [
-      "Photo Cakes"
-    ]
+    "image": "/assets/cake91-BvZ4RrGq.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 206,
-    "code": "SS-206",
-    "name": "Cake #206",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 206",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake206-BEoheMHo.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake133-Bw3VOMSy.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 207,
-    "code": "SS-207",
     "name": "Engegament Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "3 KG",
     "price": "₹2100",
-    "image": "/assets/cake207-Bvn4hJBm.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake93-DVxf7gNw.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 208,
-    "code": "SS-208",
-    "name": "Cake #208",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 208",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake208-DCx3Yf8x.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake94-C8ceRDPi.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 209,
-    "code": "SS-209",
-    "name": "Cake #209",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 209",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake95-DAGTuFlb.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 210,
-    "code": "SS-210",
-    "name": "Cake #210",
-    "flavor": "All flavors available",
-    "weight": "1 KG",
+    "name": "Cake 210",
+    "flavor": "All flavors Available",
+    "weight": "Custom Weight",
     "price": "Contact for Price",
-    "image": "/assets/cake210-CnSLmCHg.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake135-C2xU6L0F.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 211,
-    "code": "SS-211",
     "name": "Makeup kit Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1700",
-    "image": "/thumbnail.jpg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake97-DS_sJlBa.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 212,
-    "code": "SS-212",
     "name": "Saree Cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2 KG",
     "price": "₹1300",
-    "image": "/assets/cake212-Fk3jkmgK.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake98-zM9M89h1.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   },
   {
     "id": 213,
-    "code": "SS-213",
     "name": "Friendship cake",
     "flavor": "Butterscoch / pineapple/ Strawberry",
     "weight": "2kg",
     "price": "₹1100",
-    "image": "/assets/cake213-DvV0AZkg.jpeg",
-    "categories": [
-      "Specialty Cakes"
-    ]
+    "image": "/assets/cake99-CGZdeZ49.jpeg",
+    "location": "https://www.google.com/maps",
+    "whatsapp": "https://wa.me/919666725858"
   }
 ]
