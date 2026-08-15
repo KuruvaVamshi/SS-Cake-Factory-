@@ -1,0 +1,1698 @@
+[
+  {
+    "id": 1,
+    "name": "Step Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "3KG",
+    "price": "2400₹",
+    "image": "/assets/cake1-C4B-RPGA.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Icecreeam Design Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹1800",
+    "image": "/assets/cake2-D6H4EdlF.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Spider Man Step Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "3KG",
+    "price": "₹ 1800",
+    "image": "/assets/cake3-pLcVKBAf.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Barbie Doll Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "2KG",
+    "price": "₹900",
+    "image": "/assets/cake4-vWxUIHtM.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Makeup Kit Step Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹1800",
+    "image": "/assets/cake5-7WXuC6Gg.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Micky Mouse Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "2KG",
+    "price": "₹1400",
+    "image": "/assets/cake6-CptcmsU_.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "4kg Photo Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "4kg",
+    "price": "₹1600",
+    "image": "/assets/cake7-De2qkDwC.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Princess Step Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "3KG",
+    "price": "₹1800",
+    "image": null
+  },
+  {
+    "id": 9,
+    "name": "Doll Step Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "3KG",
+    "price": "₹2000",
+    "image": "/assets/cake9-CKrdF8b0.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Cinderella Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹1600",
+    "image": null
+  },
+  {
+    "id": 11,
+    "name": "Panda Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1700",
+    "image": null
+  },
+  {
+    "id": 12,
+    "name": "Doll photo Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹900",
+    "image": "/assets/cake12-B46-zDUW.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Sea Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1300",
+    "image": null
+  },
+  {
+    "id": 14,
+    "name": "Photo Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹800",
+    "image": "/assets/cake14-D9jg_xSs.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Photo Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "5 kg",
+    "price": "₹2000",
+    "image": "/assets/cake15-DU2ILxL1.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Anniversary Step Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹1500",
+    "image": "/assets/cake16-CQhp3xiS.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Butterfly Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "2 kg",
+    "price": "₹1200",
+    "image": "/assets/cake17-CSfqUw_3.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Unicorn Fantasy Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹1800",
+    "image": "/assets/cake18-rasd3XVb.jpg"
+  },
+  {
+    "id": 19,
+    "name": "boy cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1300",
+    "image": "/assets/cake19-BYfUQMcs.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Step Cake doll not available",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹",
+    "image": "/assets/cake20-ChTNWo4o.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Unicorn Fantasy Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹2200",
+    "image": "/assets/cake21-BZ3O_3CV.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Cocomillon Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹2200",
+    "image": "/assets/cake22-Dw-_J6hi.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Doll Butterfly Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1300",
+    "image": "/assets/cake23-C2-OiA3m.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Garrage Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1300",
+    "image": "/assets/cake24-DYxr7H9o.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Queen Step cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "3 kg",
+    "price": "₹1900",
+    "image": "/assets/cake25-aAQmXtHr.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Butterfly Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1200",
+    "image": "/assets/cake26-CtFhPHMM.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Doll cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹800",
+    "image": "/assets/cake27-B5hfyHrf.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Micky Mouse Step Cake",
+    "flavor": "Butterscoch/ Pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹1799",
+    "image": "/assets/cake28-BKzSs0wO.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Doll Twins Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "4 KG",
+    "price": "₹2700",
+    "image": "/assets/cake29-prwR2Lz7.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Letter Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1kg",
+    "price": "₹350",
+    "image": "/assets/cake30-CpBehwjh.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Car Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "KG3",
+    "price": "₹2200",
+    "image": "/assets/cake31-nXc_ZlAs.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Engagement Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹2100",
+    "image": null
+  },
+  {
+    "id": 33,
+    "name": "Bat man Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1500",
+    "image": "/assets/cake33-BMjFGTG8.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Teddy Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹2100",
+    "image": "/assets/cake34-LISGntvU.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Car Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹1500",
+    "image": "/assets/cake35-C9w8rTpC.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Butterfly step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹1600",
+    "image": "/assets/cake36-BclDMJJj.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Biscuits Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹1900",
+    "image": "/assets/cake14-D9jg_xSs.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Doll Butterfly Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹2100",
+    "image": "/assets/cake38-BK8V4-Z-.jpg"
+  },
+  {
+    "id": 39,
+    "name": "King Fisher Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1300",
+    "image": "/assets/cake39-D17SHMGX.jpg"
+  },
+  {
+    "id": 40,
+    "name": "......",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "....",
+    "price": "₹...",
+    "image": "/assets/cake40-BYyYsOzH.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Car Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹2200",
+    "image": "/assets/cake41-syHACer4.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Micky Mouse step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹2100",
+    "image": "/assets/cake42-Bb3s-rD5.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Half Teddy Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1 KG",
+    "price": "₹1200",
+    "image": "/assets/cake43-CJaqw6nw.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Foot Ball Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1000",
+    "image": "/assets/cake44-xd3wljXS.jpeg"
+  },
+  {
+    "id": 45,
+    "name": "Little Singham Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹1950",
+    "image": "/assets/cake1-C4B-RPGA.jpeg"
+  },
+  {
+    "id": 46,
+    "name": "5 Steps Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "15 KG",
+    "price": "₹6000",
+    "image": "/assets/cake148-BSrou9If.jpeg"
+  },
+  {
+    "id": 47,
+    "name": "Forest Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹1800",
+    "image": "/assets/cake143-ByQ5Llkd.jpeg"
+  },
+  {
+    "id": 48,
+    "name": "Cinderella Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹2100",
+    "image": "/assets/cake48-CXUmg_bp.jpeg"
+  },
+  {
+    "id": 49,
+    "name": "Spider Man Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹2400",
+    "image": "/assets/cake49-YZOdxjsB.jpeg"
+  },
+  {
+    "id": 50,
+    "name": "Coco-millen Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 kg",
+    "price": "₹1400",
+    "image": "/assets/cake161-DW2U_nqu.jpeg"
+  },
+  {
+    "id": 51,
+    "name": "Princess Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1400",
+    "image": "/assets/cake160-bNhdjH7v.jpeg"
+  },
+  {
+    "id": 52,
+    "name": "Spider Man step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹1900",
+    "image": "/assets/cake149-51mVQH6z.jpeg"
+  },
+  {
+    "id": 53,
+    "name": "Babby Boss Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹1900",
+    "image": "/assets/cake53-D4MQ52bl.jpeg"
+  },
+  {
+    "id": 54,
+    "name": "Kids Junk Food Birthday Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1400",
+    "image": "/assets/cake157-RAWvxtr-.jpeg"
+  },
+  {
+    "id": 55,
+    "name": "Doraemon Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 kg",
+    "price": "₹1000",
+    "image": "/assets/cake55-_GTr5cM9.jpeg"
+  },
+  {
+    "id": 56,
+    "name": "Butterfly Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2KG",
+    "price": "₹1200",
+    "image": "/assets/cake56-C1CXbL9a.jpeg"
+  },
+  {
+    "id": 57,
+    "name": "Photo Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "5 kg",
+    "price": "₹2100",
+    "image": "/assets/cake57-WxciBGl5.jpeg"
+  },
+  {
+    "id": 58,
+    "name": "Unicon Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1300",
+    "image": "/assets/cake58-Dv9halFk.jpeg"
+  },
+  {
+    "id": 59,
+    "name": "Engagement Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹2100",
+    "image": "/assets/cake59-KdsdIaaF.jpeg"
+  },
+  {
+    "id": 60,
+    "name": "Spider man Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹1950",
+    "image": "/assets/cake164-CBfaseRY.jpeg"
+  },
+  {
+    "id": 61,
+    "name": "Butterfly Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹1500",
+    "image": "/assets/cake61-C4DJT0GP.jpeg"
+  },
+  {
+    "id": 62,
+    "name": "Princess cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹900",
+    "image": "/assets/cake158-Ciz2UOZL.jpeg"
+  },
+  {
+    "id": 63,
+    "name": "Princess Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹900",
+    "image": "/assets/cake150-Dm4VnwRH.jpeg"
+  },
+  {
+    "id": 64,
+    "name": "6months Birthday Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1 KG",
+    "price": "₹600",
+    "image": "/assets/cake2-D6H4EdlF.jpeg"
+  },
+  {
+    "id": 65,
+    "name": "Bride-to-Be Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹1300",
+    "image": "/assets/cake149-51mVQH6z.jpeg"
+  },
+  {
+    "id": 66,
+    "name": "Teddy Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹2100",
+    "image": "/assets/cake66-DPOvst7a.jpeg"
+  },
+  {
+    "id": 67,
+    "name": "BEN 10 Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹1300",
+    "image": "/assets/cake67-COz6Pxhl.jpeg"
+  },
+  {
+    "id": 68,
+    "name": "Almond",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹900",
+    "image": null
+  },
+  {
+    "id": 69,
+    "name": "Teddy Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹1950",
+    "image": "/assets/cake159-DGNgfM4h.jpeg"
+  },
+  {
+    "id": 70,
+    "name": "Engagement Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1100",
+    "image": "/assets/cake6-CptcmsU_.jpeg"
+  },
+  {
+    "id": 71,
+    "name": "Doraemon Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹800",
+    "image": "/assets/cake146-DwKtOWfp.jpeg"
+  },
+  {
+    "id": 72,
+    "name": "Sea fish cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1000",
+    "image": "/assets/cake151-VEzd__sb.jpeg"
+  },
+  {
+    "id": 73,
+    "name": "Chef Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2KG",
+    "price": "₹1400",
+    "image": "/assets/cake141-CREoAZOA.jpeg"
+  },
+  {
+    "id": 74,
+    "name": "Butterfly Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1 kg",
+    "price": "₹500",
+    "image": "/assets/cake162-laOd0CMM.jpeg"
+  },
+  {
+    "id": 75,
+    "name": "Frozen Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2KG",
+    "price": "₹1100",
+    "image": "/assets/cake75-7mUYlviH.jpeg"
+  },
+  {
+    "id": 76,
+    "name": "Flower 3-Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "6kg",
+    "price": "₹3000",
+    "image": "/assets/cake76-COzuCsI2.jpeg"
+  },
+  {
+    "id": 77,
+    "name": "Star Teddy step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹2000",
+    "image": "/assets/cake77-DikmcMhl.jpeg"
+  },
+  {
+    "id": 78,
+    "name": "Suppeer-man daddy Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹800",
+    "image": "/assets/cake78-Dnq3mCsS.jpeg"
+  },
+  {
+    "id": 79,
+    "name": "Letter Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1/2 kg/ per- each cake",
+    "price": "₹180",
+    "image": "/assets/cake79-Bpf_dMz6.jpeg"
+  },
+  {
+    "id": 80,
+    "name": "R.T.C - Reterment TG cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1500",
+    "image": "/assets/cake142-BFR0uVHl.jpeg"
+  },
+  {
+    "id": 81,
+    "name": "Rabbit Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹800",
+    "image": "/assets/cake4-vWxUIHtM.jpeg"
+  },
+  {
+    "id": 82,
+    "name": "Design Photo Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹800",
+    "image": "/assets/cake82-DYIZM6bF.jpeg"
+  },
+  {
+    "id": 83,
+    "name": "Butterfly Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹1500",
+    "image": "/assets/cake3-pLcVKBAf.jpeg"
+  },
+  {
+    "id": 84,
+    "name": "Frozen Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹1100",
+    "image": "/assets/cake84-Dqd_dmkO.jpeg"
+  },
+  {
+    "id": 85,
+    "name": "Animal 3 - step cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "6 KG",
+    "price": "₹3200",
+    "image": "/assets/cake156-C7rrfAK1.jpeg"
+  },
+  {
+    "id": 86,
+    "name": "Animal step cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹1800",
+    "image": "/assets/cake165-D5s0TLRj.jpeg"
+  },
+  {
+    "id": 87,
+    "name": "King 1st Birthday Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹2200",
+    "image": "/assets/cake87-CEKdjbQ-.jpeg"
+  },
+  {
+    "id": 88,
+    "name": "Butterfly 1st Birthday Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹1800",
+    "image": "/assets/cake88-zP9x0lRz.jpeg"
+  },
+  {
+    "id": 89,
+    "name": "Robo Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹1600",
+    "image": "/assets/cake89-V5AhV1ZH.jpeg"
+  },
+  {
+    "id": 90,
+    "name": "Spiderman face Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1 KG",
+    "price": "₹400",
+    "image": "/assets/cake90-PW51BUhn.jpeg"
+  },
+  {
+    "id": 91,
+    "name": "Annivarsary Flower Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹2100",
+    "image": "/assets/cake91-BvZ4RrGq.jpeg"
+  },
+  {
+    "id": 92,
+    "name": "Sai Letter cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1KG - per each letter.",
+    "price": "₹350",
+    "image": "/assets/cake133-Bw3VOMSy.jpeg"
+  },
+  {
+    "id": 93,
+    "name": "Mothers Day Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1 KG",
+    "price": "₹350",
+    "image": "/assets/cake93-DVxf7gNw.jpeg"
+  },
+  {
+    "id": 94,
+    "name": "1/2 Letters Cakes",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "each cake 1/2kg",
+    "price": "₹180",
+    "image": "/assets/cake94-C8ceRDPi.jpeg"
+  },
+  {
+    "id": 95,
+    "name": "Anniversary Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1300",
+    "image": "/assets/cake95-DAGTuFlb.jpeg"
+  },
+  {
+    "id": 96,
+    "name": "Ragnigaddha",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹1300",
+    "image": "/assets/cake135-C2xU6L0F.jpeg"
+  },
+  {
+    "id": 97,
+    "name": "1/2 - 6months cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1 KG",
+    "price": "₹800",
+    "image": "/assets/cake97-DS_sJlBa.jpeg"
+  },
+  {
+    "id": 98,
+    "name": "Engagement Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1400",
+    "image": "/assets/cake98-zM9M89h1.jpeg"
+  },
+  {
+    "id": 99,
+    "name": "Star Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 kg",
+    "price": "₹1000",
+    "image": "/assets/cake99-CGZdeZ49.jpeg"
+  },
+  {
+    "id": 100,
+    "name": "Car step cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹2400",
+    "image": "/assets/cake100-BsMd-4c5.jpeg"
+  },
+  {
+    "id": 101,
+    "name": "Butterfly 3 - step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "6kg",
+    "price": "₹3000",
+    "image": "/assets/cake101-BSyY3X0f.jpeg"
+  },
+  {
+    "id": 102,
+    "name": "Chocolat cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1 KG",
+    "price": "₹350",
+    "image": null
+  },
+  {
+    "id": 103,
+    "name": "Butterscotch premium Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1 KG",
+    "price": "₹300",
+    "image": "/assets/cake103-Cm_2PMTT.jpeg"
+  },
+  {
+    "id": 104,
+    "name": "Butterscotch  Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1kg",
+    "price": "₹250",
+    "image": "/assets/cake104-BTNLm5fW.jpeg"
+  },
+  {
+    "id": 105,
+    "name": "Black Forest",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1 KG",
+    "price": "₹350",
+    "image": "/assets/cake105-Ck1iDjje.jpeg"
+  },
+  {
+    "id": 106,
+    "name": "Fish Doll cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹1400",
+    "image": "/assets/cake106-R0fvt12f.jpeg"
+  },
+  {
+    "id": 107,
+    "name": "Butterfly Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1 KG",
+    "price": "₹500",
+    "image": "/assets/cake107-Bgaox5Q4.jpeg"
+  },
+  {
+    "id": 108,
+    "name": "Droctor Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1 kg",
+    "price": "₹450",
+    "image": "/assets/cake108-DRTsbWML.jpeg"
+  },
+  {
+    "id": 109,
+    "name": "Doraemon Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1600",
+    "image": "/assets/cake109-S6pCuMdu.jpeg"
+  },
+  {
+    "id": 110,
+    "name": "Heart Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1kg",
+    "price": "₹400",
+    "image": "/assets/cake110-CVwEctqK.jpeg"
+  },
+  {
+    "id": 111,
+    "name": "Flight Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1400",
+    "image": "/assets/cake111-BPa2txfM.jpeg"
+  },
+  {
+    "id": 112,
+    "name": "Car Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1600",
+    "image": "/assets/cake112-BrwAJ78D.jpeg"
+  },
+  {
+    "id": 113,
+    "name": "Butterfly step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹1500",
+    "image": "/assets/cake113-z9OUa5Gb.jpeg"
+  },
+  {
+    "id": 114,
+    "name": "Engagement Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹2400",
+    "image": "/assets/cake114-CWTOEKOL.jpeg"
+  },
+  {
+    "id": 115,
+    "name": "bike Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 kg",
+    "price": "₹2000",
+    "image": "/assets/cake115-DKXqnBPv.jpeg"
+  },
+  {
+    "id": 116,
+    "name": "Babby Doll",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "KG",
+    "price": "₹900",
+    "image": "/assets/cake116-BmTB4bfm.jpeg"
+  },
+  {
+    "id": 117,
+    "name": "Panda Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹800",
+    "image": "/assets/cake117-CwkJdvAx.jpeg"
+  },
+  {
+    "id": 118,
+    "name": "Gym Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹1400",
+    "image": "/assets/cake118-DIJh8Zk9.jpeg"
+  },
+  {
+    "id": 119,
+    "name": "Cloud step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹1950",
+    "image": "/assets/cake119-CfyJi6hY.jpeg"
+  },
+  {
+    "id": 120,
+    "name": "Princess Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹1500",
+    "image": "/assets/cake120-DTVIgjwZ.jpeg"
+  },
+  {
+    "id": 121,
+    "name": "Police Kids Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1600",
+    "image": "/assets/cake121-BuPT_xM9.jpeg"
+  },
+  {
+    "id": 122,
+    "name": "Baby Moana Step  Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹2100",
+    "image": "/assets/cake122-WUaUiSTv.jpeg"
+  },
+  {
+    "id": 123,
+    "name": "Teddy step cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹2300",
+    "image": "/assets/cake123-BLBfHtvT.jpeg"
+  },
+  {
+    "id": 124,
+    "name": "Merry Christmas Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1100",
+    "image": "/assets/cake124-BcMwB4bC.jpeg"
+  },
+  {
+    "id": 125,
+    "name": "Old Monk Design Cake Note: Old Monk  Bottle's your's only.",
+    "flavor": "Chocolat Cake",
+    "weight": "2kg",
+    "price": "₹1500",
+    "image": "/assets/cake125-B2I5sGtc.jpeg"
+  },
+  {
+    "id": 126,
+    "name": "Wine Design Cake",
+    "flavor": "...",
+    "weight": "...",
+    "price": "₹...",
+    "image": "/assets/cake126-Bck0ZOtN.jpeg"
+  },
+  {
+    "id": 127,
+    "name": "chocolat step cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹2000",
+    "image": "/assets/cake127-aAqSmAlw.jpeg"
+  },
+  {
+    "id": 128,
+    "name": "Messi-Foot Ball Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1500",
+    "image": "/assets/cake128-Df8wWOdZ.jpeg"
+  },
+  {
+    "id": 129,
+    "name": "Teddy Doll Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹2400",
+    "image": "/assets/cake129-BNiAyaWW.jpeg"
+  },
+  {
+    "id": 130,
+    "name": "Calender Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1300",
+    "image": "/assets/cake130-BSCZXLvb.jpeg"
+  },
+  {
+    "id": 131,
+    "name": "Peppa pig step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹2500",
+    "image": "/assets/cake131-Dw2933Ks.jpeg"
+  },
+  {
+    "id": 132,
+    "name": "Almond Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1 KG",
+    "price": "₹400",
+    "image": "/assets/cake132-DBUZPNqn.jpeg"
+  },
+  {
+    "id": 133,
+    "name": "Car Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1500",
+    "image": "/assets/cake133-Bw3VOMSy.jpeg"
+  },
+  {
+    "id": 134,
+    "name": "Teddy cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹1200",
+    "image": "/assets/cake108-DRTsbWML.jpeg"
+  },
+  {
+    "id": 135,
+    "name": "Butterfly cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1 KG",
+    "price": "₹550",
+    "image": "/assets/cake135-C2xU6L0F.jpeg"
+  },
+  {
+    "id": 136,
+    "name": "Chocolat step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹1600",
+    "image": "/assets/cake136-BdnqYR_A.jpeg"
+  },
+  {
+    "id": 137,
+    "name": "Boss Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹2100",
+    "image": "/assets/cake137-9xjrhRs7.jpeg"
+  },
+  {
+    "id": 138,
+    "name": "Chicken Legpice Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1300",
+    "image": "/assets/cake100-BsMd-4c5.jpeg"
+  },
+  {
+    "id": 139,
+    "name": "Baby Boss stepp cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹1950",
+    "image": "/assets/cake129-BNiAyaWW.jpeg"
+  },
+  {
+    "id": 140,
+    "name": "Micky Mouse step cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹1950",
+    "image": "/assets/cake140-B6rvJYkc.jpeg"
+  },
+  {
+    "id": 141,
+    "name": "Teddy Baby Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹2400",
+    "image": "/assets/cake141-CREoAZOA.jpeg"
+  },
+  {
+    "id": 142,
+    "name": "Girls Design Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹2300",
+    "image": "/assets/cake142-BFR0uVHl.jpeg"
+  },
+  {
+    "id": 143,
+    "name": "..",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": ".. KG",
+    "price": "₹...",
+    "image": "/assets/cake143-ByQ5Llkd.jpeg"
+  },
+  {
+    "id": 144,
+    "name": "...",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "..kg",
+    "price": "₹...",
+    "image": "/assets/cake144-CVmounrP.jpeg"
+  },
+  {
+    "id": 145,
+    "name": ".....",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3KG",
+    "price": "₹1499",
+    "image": "/assets/cake145-C7x6Gy2G.jpeg"
+  },
+  {
+    "id": 146,
+    "name": "..... Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹...",
+    "image": "/assets/cake146-DwKtOWfp.jpeg"
+  },
+  {
+    "id": 147,
+    "name": "Micky Mouse Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹...",
+    "image": "/assets/cake147-CagZkZ-R.jpeg"
+  },
+  {
+    "id": 148,
+    "name": "......",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": ".... KG",
+    "price": "₹....",
+    "image": "/assets/cake148-BSrou9If.jpeg"
+  },
+  {
+    "id": 149,
+    "name": "Engagement step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "6kg",
+    "price": "₹3000",
+    "image": "/assets/cake149-51mVQH6z.jpeg"
+  },
+  {
+    "id": 150,
+    "name": "Butterfly Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1 KG",
+    "price": "₹600",
+    "image": "/assets/cake150-Dm4VnwRH.jpeg"
+  },
+  {
+    "id": 151,
+    "name": "white Forest Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1 KG",
+    "price": "₹400",
+    "image": "/assets/cake151-VEzd__sb.jpeg"
+  },
+  {
+    "id": 152,
+    "name": "Mom To Be Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1kg",
+    "price": "₹600",
+    "image": "/assets/cake152-CPs7Icgo.jpeg"
+  },
+  {
+    "id": 153,
+    "name": "Lover Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1400",
+    "image": "/assets/cake153-CEmzqnSd.jpeg"
+  },
+  {
+    "id": 155,
+    "name": "Doll cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1800",
+    "image": "/assets/cake155-B2aYl-co.jpeg"
+  },
+  {
+    "id": 156,
+    "name": "1st Birthday step  Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹2500",
+    "image": "/assets/cake156-C7rrfAK1.jpeg"
+  },
+  {
+    "id": 157,
+    "name": "Princess cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "....",
+    "price": "₹...",
+    "image": "/assets/cake157-RAWvxtr-.jpeg"
+  },
+  {
+    "id": 158,
+    "name": "......",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": ".... KG",
+    "price": "₹....",
+    "image": "/assets/cake158-Ciz2UOZL.jpeg"
+  },
+  {
+    "id": 159,
+    "name": "Cricket Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹2800",
+    "image": "/assets/cake159-DGNgfM4h.jpeg"
+  },
+  {
+    "id": 160,
+    "name": "Doll cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹900",
+    "image": "/assets/cake160-bNhdjH7v.jpeg"
+  },
+  {
+    "id": 161,
+    "name": "Car Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹2200",
+    "image": "/assets/cake161-DW2U_nqu.jpeg"
+  },
+  {
+    "id": 162,
+    "name": "Teddy cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹2400",
+    "image": "/assets/cake162-laOd0CMM.jpeg"
+  },
+  {
+    "id": 163,
+    "name": "..........",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "..... KG",
+    "price": "₹.....",
+    "image": "/assets/cake163-Bq28mJiU.jpeg"
+  },
+  {
+    "id": 164,
+    "name": "....",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "... KG",
+    "price": "₹...",
+    "image": "/assets/cake164-CBfaseRY.jpeg"
+  },
+  {
+    "id": 165,
+    "name": "Engagement Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹1800",
+    "image": "/assets/cake165-D5s0TLRj.jpeg"
+  },
+  {
+    "id": 166,
+    "name": ".....",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "... KG",
+    "price": "₹.....",
+    "image": null
+  },
+  {
+    "id": 167,
+    "name": "Step doll Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "4kg",
+    "price": "₹1800",
+    "image": null
+  },
+  {
+    "id": 168,
+    "name": "Unicon Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "5 KG",
+    "price": "₹3500",
+    "image": null
+  },
+  {
+    "id": 169,
+    "name": "Twins Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹2500",
+    "image": null
+  },
+  {
+    "id": 170,
+    "name": ".....",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "...KG",
+    "price": "₹...",
+    "image": null
+  },
+  {
+    "id": 171,
+    "name": "Cricket Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹1400",
+    "image": null
+  },
+  {
+    "id": 172,
+    "name": "Micky Mouse",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3KG",
+    "price": "₹2100",
+    "image": null
+  },
+  {
+    "id": 173,
+    "name": "...",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": ".... KG",
+    "price": "₹...",
+    "image": "/assets/cake173-onpgaj4V.jpeg"
+  },
+  {
+    "id": 174,
+    "name": "Teddy Cake  Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "6kg",
+    "price": "₹3600",
+    "image": "/assets/cake174-CnAfom-G.jpeg"
+  },
+  {
+    "id": 175,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake175-BXjYm6W8.jpeg"
+  },
+  {
+    "id": 176,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "₹",
+    "image": "/assets/cake176-BdEofxd2.jpeg"
+  },
+  {
+    "id": 177,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake177-CKZe3Rqk.jpeg"
+  },
+  {
+    "id": 178,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake178-MApQUUK3.jpeg"
+  },
+  {
+    "id": 179,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake179-Cki0pdCi.jpeg"
+  },
+  {
+    "id": 180,
+    "name": "Forest",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹3000",
+    "image": "/assets/cake180-hCwt4J0I.jpeg"
+  },
+  {
+    "id": 181,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake181-BoGX5Hzy.jpeg"
+  },
+  {
+    "id": 182,
+    "name": "Step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹1800",
+    "image": "/assets/cake182-eJI-4z6z.jpeg"
+  },
+  {
+    "id": 183,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake183-CMrl8DZ4.jpeg"
+  },
+  {
+    "id": 184,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake184-w29sAt_I.jpeg"
+  },
+  {
+    "id": 185,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake185-Cj-eWsl3.jpeg"
+  },
+  {
+    "id": 186,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake186-B82vA89P.jpeg"
+  },
+  {
+    "id": 187,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake187-BEet-q9r.jpeg"
+  },
+  {
+    "id": 188,
+    "name": "Princess photo Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1200",
+    "image": "/assets/cake188-CH-m3bWi.jpeg"
+  },
+  {
+    "id": 189,
+    "name": "Engagement step cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹2000",
+    "image": "/assets/cake189-BqmyFx7k.jpeg"
+  },
+  {
+    "id": 190,
+    "name": "Fruits Butterscoch",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "1kg",
+    "price": "₹600",
+    "image": "/assets/cake190-61ve1GFQ.jpeg"
+  },
+  {
+    "id": 191,
+    "name": "Number Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "4 KG",
+    "price": "₹1400",
+    "image": "/assets/cake191-D79e5WN_.jpeg"
+  },
+  {
+    "id": 192,
+    "name": "Cat Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹1000",
+    "image": "/assets/cake192-Cnf2eLrj.jpeg"
+  },
+  {
+    "id": 193,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake193-DZS5NOwq.jpeg"
+  },
+  {
+    "id": 194,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake194-B6XmP_-L.jpeg"
+  },
+  {
+    "id": 195,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake195-jXxtpWEy.jpeg"
+  },
+  {
+    "id": 196,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake196-Cb9l4yRY.jpeg"
+  },
+  {
+    "id": 197,
+    "name": "Butterscotch Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹800",
+    "image": "/assets/cake197-D-yut0yX.jpeg"
+  },
+  {
+    "id": 198,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": null
+  },
+  {
+    "id": 199,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": null
+  },
+  {
+    "id": 200,
+    "name": "Animal step Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹3200",
+    "image": "/assets/cake200-Brbnsoez.jpeg"
+  },
+  {
+    "id": 201,
+    "name": "Hear sheap Step cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹1600",
+    "image": null
+  },
+  {
+    "id": 202,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": null
+  },
+  {
+    "id": 203,
+    "name": "Step cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3kg",
+    "price": "₹1600",
+    "image": null
+  },
+  {
+    "id": 204,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake204-CDXnQ0GN.jpeg"
+  },
+  {
+    "id": 205,
+    "name": "photo cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "7kg",
+    "price": "₹2800",
+    "image": "/assets/cake205-JuoS0hb5.jpeg"
+  },
+  {
+    "id": 206,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake206-BEoheMHo.jpeg"
+  },
+  {
+    "id": 207,
+    "name": "Engegament Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "3 KG",
+    "price": "₹2100",
+    "image": "/assets/cake207-Bvn4hJBm.jpeg"
+  },
+  {
+    "id": 208,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake208-DCx3Yf8x.jpeg"
+  },
+  {
+    "id": 209,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": null
+  },
+  {
+    "id": 210,
+    "name": "",
+    "flavor": "",
+    "weight": "",
+    "price": "",
+    "image": "/assets/cake210-CnSLmCHg.jpeg"
+  },
+  {
+    "id": 211,
+    "name": "Makeup kit Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1700",
+    "image": null
+  },
+  {
+    "id": 212,
+    "name": "Saree Cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2 KG",
+    "price": "₹1300",
+    "image": "/assets/cake212-Fk3jkmgK.jpeg"
+  },
+  {
+    "id": 213,
+    "name": "Friendship cake",
+    "flavor": "Butterscoch / pineapple/ Strawberry",
+    "weight": "2kg",
+    "price": "₹1100",
+    "image": "/assets/cake213-DvV0AZkg.jpeg"
+  }
+]
