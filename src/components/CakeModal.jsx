@@ -64,7 +64,7 @@ export default function CakeModal({ cake, onClose }) {
               />
             </div>
             <p className="modal-image-note">
-              📸 <em>Direct photo link & specifications will be sent to WhatsApp.</em>
+              📸 <em>Exact cake photo will be attached to WhatsApp with your order.</em>
             </p>
           </div>
 
@@ -147,7 +147,7 @@ export default function CakeModal({ cake, onClose }) {
                   disabled={isSending}
                 >
                   <span className="wa-icon">💬</span>
-                  {isSending ? "Opening WhatsApp..." : "Order on WhatsApp"}
+                  {isSending ? "Preparing Photo..." : "Order on WhatsApp (With Photo)"}
                 </button>
 
                 <a href="tel:9666725858" className="btn-modal-call">

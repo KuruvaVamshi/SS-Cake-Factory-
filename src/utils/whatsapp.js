@@ -53,16 +53,46 @@ _Please confirm availability and order details._`;
 }
 
 /**
- * Directly opens WhatsApp chat with SS Cake Factory (+91 96667 25858)
- * prefilling all order specifications and direct cake photo link.
+ * Sends order with native cake image file attachment on mobile devices
+ * (via Web Share API), or opens WhatsApp directly with prefilled text on desktop/fallback.
  */
-export function orderOnWhatsApp(cake, options = {}) {
-  const { whatsappUrl } = buildOrderMessage(cake, options);
-  
-  // Directly open WhatsApp chat
+export async function orderOnWhatsApp(cake, options = {}) {
+  const { message, whatsappUrl } = buildOrderMessage(cake, options);
+
+  // Try Native Web Share API with actual cake photo file (Mobile devices)
+  if (typeof navigator !== "undefined" && navigator.share && navigator.canShare) {
+    try {
+      const imgSrc = cake.image || "/thumbnail.jpg";
+      const response = await fetch(imgSrc);
+      if (response.ok) {
+        const blob = await response.blob();
+        const mimeType = blob.type || "image/jpeg";
+        const ext = mimeType.includes("png") ? "png" : "jpg";
+        const fileName = `${cake.code || "cake"}.${ext}`;
+        const file = new File([blob], fileName, { type: mimeType });
+
+        if (navigator.canShare({ files: [file] })) {
+          await navigator.share({
+            title: `SS Cake Factory - ${cake.name}`,
+            text: message,
+            files: [file]
+          });
+          return { success: true, method: "native_share" };
+        }
+      }
+    } catch (err) {
+      if (err.name === "AbortError") {
+        // User closed the share sheet
+        return { success: false, method: "cancelled" };
+      }
+      console.log("Native share fallback to WhatsApp link:", err);
+    }
+  }
+
+  // Fallback / Desktop: Open WhatsApp directly
   if (typeof window !== "undefined") {
     window.open(whatsappUrl, "_blank", "noopener,noreferrer");
   }
-  return { success: true, method: "whatsapp_direct" };
+  return { success: true, method: "whatsapp_url" };
 }
 
